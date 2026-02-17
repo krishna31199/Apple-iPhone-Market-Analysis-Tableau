@@ -16,7 +16,7 @@ This project presents an interactive Tableau dashboard analyzing Apple iPhone pe
 - GitHub (Version Control)
 
 ## 🌐 Live Dashboard
-🔗 https://public.tableau.com/your_actual_dashboard_link_here
+🔗 https://public.tableau.com/your_actual_dashboard_link_here](https://public.tableau.com/app/profile/murali.krishna2856/viz/Apple_iPhone_Market_Analysis_Tableau/Dashboard1?publish=yes
 
 ## 📂 Project Structure
 - Assignments
